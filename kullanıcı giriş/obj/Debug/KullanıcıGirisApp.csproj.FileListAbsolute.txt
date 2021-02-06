@@ -1,0 +1,11 @@
+C:\Users\Lenovo PC\Desktop\projelerim\c#proje\KullanıcıGirisApp\KullanıcıGirisApp\bin\Debug\KullanıcıGirisApp.exe.config
+C:\Users\Lenovo PC\Desktop\projelerim\c#proje\KullanıcıGirisApp\KullanıcıGirisApp\bin\Debug\KullanıcıGirisApp.exe
+C:\Users\Lenovo PC\Desktop\projelerim\c#proje\KullanıcıGirisApp\KullanıcıGirisApp\bin\Debug\KullanıcıGirisApp.pdb
+C:\Users\Lenovo PC\Desktop\projelerim\c#proje\KullanıcıGirisApp\KullanıcıGirisApp\obj\Debug\KullanıcıGirisApp.csprojAssemblyReference.cache
+C:\Users\Lenovo PC\Desktop\projelerim\c#proje\KullanıcıGirisApp\KullanıcıGirisApp\obj\Debug\KullanıcıGirisApp.Form1.resources
+C:\Users\Lenovo PC\Desktop\projelerim\c#proje\KullanıcıGirisApp\KullanıcıGirisApp\obj\Debug\KullanıcıGirisApp.Properties.Resources.resources
+C:\Users\Lenovo PC\Desktop\projelerim\c#proje\KullanıcıGirisApp\KullanıcıGirisApp\obj\Debug\KullanıcıGirisApp.csproj.GenerateResource.cache
+C:\Users\Lenovo PC\Desktop\projelerim\c#proje\KullanıcıGirisApp\KullanıcıGirisApp\obj\Debug\KullanıcıGirisApp.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo PC\Desktop\projelerim\c#proje\KullanıcıGirisApp\KullanıcıGirisApp\obj\Debug\KullanıcıGirisApp.exe
+C:\Users\Lenovo PC\Desktop\projelerim\c#proje\KullanıcıGirisApp\KullanıcıGirisApp\obj\Debug\KullanıcıGirisApp.pdb
+C:\Users\Lenovo PC\Desktop\projelerim\c#proje\KullanıcıGirisApp\KullanıcıGirisApp\obj\Debug\KullanıcıGirisApp.anaForm.resources

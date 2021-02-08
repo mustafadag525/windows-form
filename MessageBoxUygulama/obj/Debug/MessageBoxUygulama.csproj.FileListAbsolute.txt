@@ -1,0 +1,10 @@
+C:\Users\Lenovo PC\Desktop\projelerim\c#proje\MessageBoxUygulama\MessageBoxUygulama\bin\Debug\MessageBoxUygulama.exe.config
+C:\Users\Lenovo PC\Desktop\projelerim\c#proje\MessageBoxUygulama\MessageBoxUygulama\bin\Debug\MessageBoxUygulama.exe
+C:\Users\Lenovo PC\Desktop\projelerim\c#proje\MessageBoxUygulama\MessageBoxUygulama\bin\Debug\MessageBoxUygulama.pdb
+C:\Users\Lenovo PC\Desktop\projelerim\c#proje\MessageBoxUygulama\MessageBoxUygulama\obj\Debug\MessageBoxUygulama.csprojAssemblyReference.cache
+C:\Users\Lenovo PC\Desktop\projelerim\c#proje\MessageBoxUygulama\MessageBoxUygulama\obj\Debug\MessageBoxUygulama.Form1.resources
+C:\Users\Lenovo PC\Desktop\projelerim\c#proje\MessageBoxUygulama\MessageBoxUygulama\obj\Debug\MessageBoxUygulama.Properties.Resources.resources
+C:\Users\Lenovo PC\Desktop\projelerim\c#proje\MessageBoxUygulama\MessageBoxUygulama\obj\Debug\MessageBoxUygulama.csproj.GenerateResource.cache
+C:\Users\Lenovo PC\Desktop\projelerim\c#proje\MessageBoxUygulama\MessageBoxUygulama\obj\Debug\MessageBoxUygulama.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo PC\Desktop\projelerim\c#proje\MessageBoxUygulama\MessageBoxUygulama\obj\Debug\MessageBoxUygulama.exe
+C:\Users\Lenovo PC\Desktop\projelerim\c#proje\MessageBoxUygulama\MessageBoxUygulama\obj\Debug\MessageBoxUygulama.pdb

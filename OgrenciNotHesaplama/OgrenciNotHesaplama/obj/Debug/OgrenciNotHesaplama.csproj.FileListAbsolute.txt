@@ -1,0 +1,10 @@
+C:\Users\Lenovo PC\Desktop\projelerim\c#proje\OgrenciNotHesaplama\OgrenciNotHesaplama\bin\Debug\OgrenciNotHesaplama.exe.config
+C:\Users\Lenovo PC\Desktop\projelerim\c#proje\OgrenciNotHesaplama\OgrenciNotHesaplama\bin\Debug\OgrenciNotHesaplama.exe
+C:\Users\Lenovo PC\Desktop\projelerim\c#proje\OgrenciNotHesaplama\OgrenciNotHesaplama\bin\Debug\OgrenciNotHesaplama.pdb
+C:\Users\Lenovo PC\Desktop\projelerim\c#proje\OgrenciNotHesaplama\OgrenciNotHesaplama\obj\Debug\OgrenciNotHesaplama.csprojAssemblyReference.cache
+C:\Users\Lenovo PC\Desktop\projelerim\c#proje\OgrenciNotHesaplama\OgrenciNotHesaplama\obj\Debug\OgrenciNotHesaplama.Form1.resources
+C:\Users\Lenovo PC\Desktop\projelerim\c#proje\OgrenciNotHesaplama\OgrenciNotHesaplama\obj\Debug\OgrenciNotHesaplama.Properties.Resources.resources
+C:\Users\Lenovo PC\Desktop\projelerim\c#proje\OgrenciNotHesaplama\OgrenciNotHesaplama\obj\Debug\OgrenciNotHesaplama.csproj.GenerateResource.cache
+C:\Users\Lenovo PC\Desktop\projelerim\c#proje\OgrenciNotHesaplama\OgrenciNotHesaplama\obj\Debug\OgrenciNotHesaplama.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo PC\Desktop\projelerim\c#proje\OgrenciNotHesaplama\OgrenciNotHesaplama\obj\Debug\OgrenciNotHesaplama.exe
+C:\Users\Lenovo PC\Desktop\projelerim\c#proje\OgrenciNotHesaplama\OgrenciNotHesaplama\obj\Debug\OgrenciNotHesaplama.pdb

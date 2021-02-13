@@ -1,0 +1,10 @@
+C:\Users\Lenovo PC\Desktop\projelerim\c#proje\DinamikFormElemanları\DinamikFormElemanları\bin\Debug\DinamikFormElemanları.exe.config
+C:\Users\Lenovo PC\Desktop\projelerim\c#proje\DinamikFormElemanları\DinamikFormElemanları\bin\Debug\DinamikFormElemanları.exe
+C:\Users\Lenovo PC\Desktop\projelerim\c#proje\DinamikFormElemanları\DinamikFormElemanları\bin\Debug\DinamikFormElemanları.pdb
+C:\Users\Lenovo PC\Desktop\projelerim\c#proje\DinamikFormElemanları\DinamikFormElemanları\obj\Debug\DinamikFormElemanları.csprojAssemblyReference.cache
+C:\Users\Lenovo PC\Desktop\projelerim\c#proje\DinamikFormElemanları\DinamikFormElemanları\obj\Debug\DinamikFormElemanları.Form1.resources
+C:\Users\Lenovo PC\Desktop\projelerim\c#proje\DinamikFormElemanları\DinamikFormElemanları\obj\Debug\DinamikFormElemanları.Properties.Resources.resources
+C:\Users\Lenovo PC\Desktop\projelerim\c#proje\DinamikFormElemanları\DinamikFormElemanları\obj\Debug\DinamikFormElemanları.csproj.GenerateResource.cache
+C:\Users\Lenovo PC\Desktop\projelerim\c#proje\DinamikFormElemanları\DinamikFormElemanları\obj\Debug\DinamikFormElemanları.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo PC\Desktop\projelerim\c#proje\DinamikFormElemanları\DinamikFormElemanları\obj\Debug\DinamikFormElemanları.exe
+C:\Users\Lenovo PC\Desktop\projelerim\c#proje\DinamikFormElemanları\DinamikFormElemanları\obj\Debug\DinamikFormElemanları.pdb

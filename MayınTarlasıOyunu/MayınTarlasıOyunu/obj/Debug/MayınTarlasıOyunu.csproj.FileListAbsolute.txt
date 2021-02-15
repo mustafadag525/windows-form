@@ -1,0 +1,10 @@
+C:\Users\Lenovo PC\Desktop\projelerim\c#proje\MayınTarlasıOyunu\MayınTarlasıOyunu\bin\Debug\MayınTarlasıOyunu.exe.config
+C:\Users\Lenovo PC\Desktop\projelerim\c#proje\MayınTarlasıOyunu\MayınTarlasıOyunu\bin\Debug\MayınTarlasıOyunu.exe
+C:\Users\Lenovo PC\Desktop\projelerim\c#proje\MayınTarlasıOyunu\MayınTarlasıOyunu\bin\Debug\MayınTarlasıOyunu.pdb
+C:\Users\Lenovo PC\Desktop\projelerim\c#proje\MayınTarlasıOyunu\MayınTarlasıOyunu\obj\Debug\MayınTarlasıOyunu.csprojAssemblyReference.cache
+C:\Users\Lenovo PC\Desktop\projelerim\c#proje\MayınTarlasıOyunu\MayınTarlasıOyunu\obj\Debug\MayınTarlasıOyunu.Form1.resources
+C:\Users\Lenovo PC\Desktop\projelerim\c#proje\MayınTarlasıOyunu\MayınTarlasıOyunu\obj\Debug\MayınTarlasıOyunu.Properties.Resources.resources
+C:\Users\Lenovo PC\Desktop\projelerim\c#proje\MayınTarlasıOyunu\MayınTarlasıOyunu\obj\Debug\MayınTarlasıOyunu.csproj.GenerateResource.cache
+C:\Users\Lenovo PC\Desktop\projelerim\c#proje\MayınTarlasıOyunu\MayınTarlasıOyunu\obj\Debug\MayınTarlasıOyunu.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo PC\Desktop\projelerim\c#proje\MayınTarlasıOyunu\MayınTarlasıOyunu\obj\Debug\MayınTarlasıOyunu.exe
+C:\Users\Lenovo PC\Desktop\projelerim\c#proje\MayınTarlasıOyunu\MayınTarlasıOyunu\obj\Debug\MayınTarlasıOyunu.pdb

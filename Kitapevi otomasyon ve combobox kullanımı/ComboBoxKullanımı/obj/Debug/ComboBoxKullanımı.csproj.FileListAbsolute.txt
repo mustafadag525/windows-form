@@ -1,0 +1,10 @@
+C:\Users\Lenovo PC\Desktop\projelerim\c#proje\ComboBoxKullanımı\ComboBoxKullanımı\bin\Debug\ComboBoxKullanımı.exe.config
+C:\Users\Lenovo PC\Desktop\projelerim\c#proje\ComboBoxKullanımı\ComboBoxKullanımı\bin\Debug\ComboBoxKullanımı.exe
+C:\Users\Lenovo PC\Desktop\projelerim\c#proje\ComboBoxKullanımı\ComboBoxKullanımı\bin\Debug\ComboBoxKullanımı.pdb
+C:\Users\Lenovo PC\Desktop\projelerim\c#proje\ComboBoxKullanımı\ComboBoxKullanımı\obj\Debug\ComboBoxKullanımı.csprojAssemblyReference.cache
+C:\Users\Lenovo PC\Desktop\projelerim\c#proje\ComboBoxKullanımı\ComboBoxKullanımı\obj\Debug\ComboBoxKullanımı.Form1.resources
+C:\Users\Lenovo PC\Desktop\projelerim\c#proje\ComboBoxKullanımı\ComboBoxKullanımı\obj\Debug\ComboBoxKullanımı.Properties.Resources.resources
+C:\Users\Lenovo PC\Desktop\projelerim\c#proje\ComboBoxKullanımı\ComboBoxKullanımı\obj\Debug\ComboBoxKullanımı.csproj.GenerateResource.cache
+C:\Users\Lenovo PC\Desktop\projelerim\c#proje\ComboBoxKullanımı\ComboBoxKullanımı\obj\Debug\ComboBoxKullanımı.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo PC\Desktop\projelerim\c#proje\ComboBoxKullanımı\ComboBoxKullanımı\obj\Debug\ComboBoxKullanımı.exe
+C:\Users\Lenovo PC\Desktop\projelerim\c#proje\ComboBoxKullanımı\ComboBoxKullanımı\obj\Debug\ComboBoxKullanımı.pdb

@@ -1,0 +1,10 @@
+C:\Users\Lenovo PC\Desktop\projelerim\c#proje\SayısalLotoApp\SayısalLotoApp\bin\Debug\SayısalLotoApp.exe.config
+C:\Users\Lenovo PC\Desktop\projelerim\c#proje\SayısalLotoApp\SayısalLotoApp\bin\Debug\SayısalLotoApp.exe
+C:\Users\Lenovo PC\Desktop\projelerim\c#proje\SayısalLotoApp\SayısalLotoApp\bin\Debug\SayısalLotoApp.pdb
+C:\Users\Lenovo PC\Desktop\projelerim\c#proje\SayısalLotoApp\SayısalLotoApp\obj\Debug\SayısalLotoApp.csprojAssemblyReference.cache
+C:\Users\Lenovo PC\Desktop\projelerim\c#proje\SayısalLotoApp\SayısalLotoApp\obj\Debug\SayısalLotoApp.Form1.resources
+C:\Users\Lenovo PC\Desktop\projelerim\c#proje\SayısalLotoApp\SayısalLotoApp\obj\Debug\SayısalLotoApp.Properties.Resources.resources
+C:\Users\Lenovo PC\Desktop\projelerim\c#proje\SayısalLotoApp\SayısalLotoApp\obj\Debug\SayısalLotoApp.csproj.GenerateResource.cache
+C:\Users\Lenovo PC\Desktop\projelerim\c#proje\SayısalLotoApp\SayısalLotoApp\obj\Debug\SayısalLotoApp.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo PC\Desktop\projelerim\c#proje\SayısalLotoApp\SayısalLotoApp\obj\Debug\SayısalLotoApp.exe
+C:\Users\Lenovo PC\Desktop\projelerim\c#proje\SayısalLotoApp\SayısalLotoApp\obj\Debug\SayısalLotoApp.pdb

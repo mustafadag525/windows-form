@@ -1,0 +1,10 @@
+C:\Users\Can\Desktop\ScreenSaver\ScreenSaver\ScreenSaver\bin\Debug\ScreenSaver.exe.config
+C:\Users\Can\Desktop\ScreenSaver\ScreenSaver\ScreenSaver\bin\Debug\ScreenSaver.exe
+C:\Users\Can\Desktop\ScreenSaver\ScreenSaver\ScreenSaver\bin\Debug\ScreenSaver.pdb
+C:\Users\Can\Desktop\ScreenSaver\ScreenSaver\ScreenSaver\obj\Debug\ScreenSaver.csprojAssemblyReference.cache
+C:\Users\Can\Desktop\ScreenSaver\ScreenSaver\ScreenSaver\obj\Debug\ScreenSaver.frmScSaver.resources
+C:\Users\Can\Desktop\ScreenSaver\ScreenSaver\ScreenSaver\obj\Debug\ScreenSaver.Properties.Resources.resources
+C:\Users\Can\Desktop\ScreenSaver\ScreenSaver\ScreenSaver\obj\Debug\ScreenSaver.csproj.GenerateResource.cache
+C:\Users\Can\Desktop\ScreenSaver\ScreenSaver\ScreenSaver\obj\Debug\ScreenSaver.csproj.CoreCompileInputs.cache
+C:\Users\Can\Desktop\ScreenSaver\ScreenSaver\ScreenSaver\obj\Debug\ScreenSaver.exe
+C:\Users\Can\Desktop\ScreenSaver\ScreenSaver\ScreenSaver\obj\Debug\ScreenSaver.pdb

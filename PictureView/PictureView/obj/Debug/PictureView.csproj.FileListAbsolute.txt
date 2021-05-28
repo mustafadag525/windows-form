@@ -1,0 +1,10 @@
+C:\Users\Can\Desktop\PictureViewer\PictureView\PictureView\bin\Debug\PictureView.exe.config
+C:\Users\Can\Desktop\PictureViewer\PictureView\PictureView\bin\Debug\PictureView.exe
+C:\Users\Can\Desktop\PictureViewer\PictureView\PictureView\bin\Debug\PictureView.pdb
+C:\Users\Can\Desktop\PictureViewer\PictureView\PictureView\obj\Debug\PictureView.csprojAssemblyReference.cache
+C:\Users\Can\Desktop\PictureViewer\PictureView\PictureView\obj\Debug\PictureView.Form1.resources
+C:\Users\Can\Desktop\PictureViewer\PictureView\PictureView\obj\Debug\PictureView.Properties.Resources.resources
+C:\Users\Can\Desktop\PictureViewer\PictureView\PictureView\obj\Debug\PictureView.csproj.GenerateResource.cache
+C:\Users\Can\Desktop\PictureViewer\PictureView\PictureView\obj\Debug\PictureView.csproj.CoreCompileInputs.cache
+C:\Users\Can\Desktop\PictureViewer\PictureView\PictureView\obj\Debug\PictureView.exe
+C:\Users\Can\Desktop\PictureViewer\PictureView\PictureView\obj\Debug\PictureView.pdb
